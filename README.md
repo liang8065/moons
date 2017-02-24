@@ -1,2 +1,2 @@
 # moons
-start at 20150515
+C++ Base Library for Linux server side development.
